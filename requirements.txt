@@ -1,0 +1,2 @@
+# No third-party dependencies -- uses only the Python 3 standard library.
+# (bcrypt was only used to *generate* the sample test hashes, not required to run hashid_tool.py)
